@@ -1,0 +1,8 @@
+{
+  "name": "graphql-http",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/benfluleck/graphql_server_test",
+  "author": "Benny Ogidan",
+  "license": "MIT"
+}
